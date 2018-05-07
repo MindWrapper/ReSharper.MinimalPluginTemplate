@@ -1,0 +1,3 @@
+﻿class |Foo|(0) {}
+---------------------------------------------------------
+(0): ReSharper Warning: (T) 'Class name contains 'Foo'. Rename it immediately!' (E) 'Class name contains 'Foo'. Rename it immediately! Side bar.'
