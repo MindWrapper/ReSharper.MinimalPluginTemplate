@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
     <metadata>
-        <id>ReSharper.Plugin.Template</id>
-        <title>Minimal Resharper plugin with Tests for ReSharper 2018.1.0</title>
-        <version>0.0.0.1</version>
+        <id>ReSharper.MimimalPluginTemplate</id>
+        <title>Resharper compiled extension solution template with tests</title>
+        <version>1.0.0.0</version>
         <authors>Yan Drugalya</authors>
         <owners>Yan Drugalya</owners>
         <summary>Creates Visual Studio solution for ReSharper plugin with tests for ReSharper 2018.1.0</summary>
-        <description>Minimal ReSharper compiled plugin example</description>
+        <description>Resharper compiled extension solution template with tests ReSharper 2018.1.0</description>
         <projectUrl>https://github.com/MindWrapper/ReSharper.MinimalPluginTemplate</projectUrl>
         <licenseUrl>https://github.com/MindWrapper/ReSharper.MinimalPluginTemplate/blob/master/LICENSE</licenseUrl>
         <tags>Resharper Plugin template</tags>

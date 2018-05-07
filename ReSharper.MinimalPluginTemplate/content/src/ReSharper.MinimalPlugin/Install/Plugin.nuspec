@@ -13,7 +13,7 @@
 		<dependencies>
 			<dependency id="Wave" version="[12.0]" />
 		</dependencies>
-		<tags>resharper plugin minimal</tags>
+		<tags>resharper plugin tests</tags>
 	</metadata>
 	<files>
 		<file src="..\bin\Release\MinimalReSharperPlugin.dll" target="DotFiles" />

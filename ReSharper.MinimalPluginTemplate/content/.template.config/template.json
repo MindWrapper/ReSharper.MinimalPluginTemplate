@@ -5,9 +5,9 @@
 	"identity": "ReSharper.MinimalPlugin",
 	"shortName": "ReSharper.MinimalPlugin",
 	"tags": {
-		"language": "C#"                    // Specify that this template is in C#.
+		"language": "C#",
 	},
-	"sourceName": "ReSharper.MinimalPlugin", // Will replace the string 'ReSharper.MinimalPlugin' with the value provided via -n.
+	"sourceName": "ReSharper.MinimalPlugin",
 	"preferNameDirectory" : "true",
 	"sources": [
 		{
