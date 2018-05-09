@@ -1,1 +1,1 @@
-%~dp0nuget.exe pack %~dp0plugin.nuspec -OutputDirectory %~dp0
+%~dp0nuget.exe pack %~dp0Plugin.nuspec -OutputDirectory %~dp0

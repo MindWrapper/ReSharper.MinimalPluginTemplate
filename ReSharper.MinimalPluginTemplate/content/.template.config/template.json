@@ -11,12 +11,9 @@
 	"preferNameDirectory" : "true",
 	"sources": [
 		{
-			"modifiers":[
-				{
-					"condition":"true",
-					"exclude": ["Packages/**/*", ".git/**/*", ".vs/**/*"]
-				}
-			],
+			"rename": { // no way to fit nuspec into nuget package. rename it during template install
+				"Plugin.nuspec.xml": "Plugin.nuspec"
+			}
 		}
 	]
 }
