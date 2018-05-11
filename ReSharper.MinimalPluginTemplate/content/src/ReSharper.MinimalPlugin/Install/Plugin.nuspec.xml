@@ -16,6 +16,6 @@
 		<tags>resharper plugin tests</tags>
 	</metadata>
 	<files>
-		<file src="..\bin\Release\MinimalReSharperPlugin.dll" target="DotFiles" />
+		<file src="..\bin\Release\ReSharper.MinimalPlugin.dll" target="DotFiles" />
 	</files>
 </package>
