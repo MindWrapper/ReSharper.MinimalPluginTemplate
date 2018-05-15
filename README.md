@@ -1,7 +1,7 @@
 Visual studio solution template for ReSharper plugin with tests. 
 To install:
 
-`dotnet new --install ReSharper.PluginTemplate`
+`dotnet new --install ReSharper.MinimalPluginTemplate`
 
 `dotnet new ReSharper.MinimalPlugin --name ReSharper.MyPlugin --output <Path_To_Folder>`
 
