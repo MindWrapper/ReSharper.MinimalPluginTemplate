@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
     <metadata>
-        <id>ReSharper.MimimalPluginTemplate</id>
+        <id>ReSharper.MinimalPluginTemplate</id>
         <title>Resharper compiled extension solution template with tests</title>
         <version>1.0.0.0</version>
         <authors>Yan Drugalya</authors>
